@@ -2,4 +2,5 @@
 
 * Dr. Doom
 * Red Skull
-* Dctor Herrera
+* Dr. Herrera
+* Capturar a Red Skull
